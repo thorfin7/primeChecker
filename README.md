@@ -1,2 +1,2 @@
 # primeChecker
-Number prime checker in Go
+Tool to check a number is its a prime number
